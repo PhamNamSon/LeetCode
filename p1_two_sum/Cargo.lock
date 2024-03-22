@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "P1_Two_Sum"
+name = "p1_two_sum"
 version = "0.1.0"
